@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: cf8eacd3-dee2-ea69-9a45-20f36f669f05
 title: Project Ideas
 uid: 2b092b03-b8c8-3e9b-de21-d169b18debe5
