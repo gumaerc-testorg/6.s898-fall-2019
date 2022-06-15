@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains additional reading resources for 6.S898 Climate Change
+  Seminar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources

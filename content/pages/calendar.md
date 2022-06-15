@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: Calendar for 6.S898 Climate Change Seminar including the seminar topics
+  and list of guest lectures.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 61ddd24b-d30a-72ec-f5ed-f83c301b2845
 ---
 
-The class meets twice a week, on Tuesday and on Fridays. The Tuesday class is usually seminar-style with students presenting and discussing papers assigned by the upcoming guest speaker. A [full list of readings]({{< baseurl >}}/pages/readings) is available. The Friday class features guest speakers.
+The class meets twice a week, on Tuesday and on Fridays. The Tuesday class is usually seminar-style with students presenting and discussing papers assigned by the upcoming guest speaker. A {{% resource_link dd8b3712-6d2e-f856-d194-0c171419447c "full list of readings" %}} is available. The Friday class features guest speakers.
 
 {{< tableopen >}}
 {{< theadopen >}}

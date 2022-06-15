@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains required and additional readings for 6.S898 Climate
+  Change Seminar.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

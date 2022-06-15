@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus for 6.S898 Climate Change Seminar including course description
+  and grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

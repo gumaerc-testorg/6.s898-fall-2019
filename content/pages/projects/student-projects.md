@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This page contains example student projects from 6.S898 Climate Change
+  Seminar. '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
