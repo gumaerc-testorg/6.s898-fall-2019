@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'Potential project ideas for 6.S898 Climate Change Seminar. '
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: cf8eacd3-dee2-ea69-9a45-20f36f669f05
 title: Project Ideas
 uid: 2b092b03-b8c8-3e9b-de21-d169b18debe5
@@ -40,4 +45,4 @@ The following are a list of some potential projects (feel free to choose one of 
     *   Develop and carry out an action plan for a local grassroots climate / environmental organization
     *   Develop a campaign plan focused on addressing climate change for a politician (or run for public office yourself!)
 
-For inspiration, we recommend students browse our [list of resources]({{< baseurl >}}/pages/additional-resources). If you are unsure whether a potential topic would be appropriate, feel free to contact the TA.
+For inspiration, we recommend students browse our {{% resource_link 654935af-9739-5d18-c137-426a1ca94d16 "list of resources" %}}. If you are unsure whether a potential topic would be appropriate, feel free to contact the TA.
