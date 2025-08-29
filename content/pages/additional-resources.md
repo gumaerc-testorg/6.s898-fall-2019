@@ -56,13 +56,13 @@ Hausfather, Zeke. "Analysis: Why Scientists Think 100% of Global Warming Is Due 
 
 ### Idealized model frameworks
 
-- [Brian Rose (University at Albany)'s *climlab*](https://climlab.readthedocs.io/en/latest/intro.html): process-oriented climate modeling    
+- [Brian Rose (University at Albany)'s *climlab*](https://climlab.readthedocs.io/en/latest/intro.html): process-oriented climate modeling     
       
     - A helpful framework for building your own simple climate model from the bottom-up 
-- Monteiro, Joy Merwin, Jeremy McGibbon, and Rodrigo Caballero. "[sympl (v. 0.4. 0) and climt (v. 0.15. 3)–Towards a flexible framework for building model hierarchies in python](https://gmd.copernicus.org/articles/11/3781/2018/)." *Geoscientific Model Development* 11, no. 9 (2018): 3781–3794.    
+- Monteiro, Joy Merwin, Jeremy McGibbon, and Rodrigo Caballero. "[sympl (v. 0.4. 0) and climt (v. 0.15. 3)–Towards a flexible framework for building model hierarchies in python](https://gmd.copernicus.org/articles/11/3781/2018/)." *Geoscientific Model Development* 11, no. 9 (2018): 3781–3794.     
       
     - Using [*sympl*](https://github.com/mcgibbon/sympl) and [*climt*](https://github.com/CliMT/climt)
-- [University of Exeter's *isca*](https://github.com/ExeClim/Isca): a framework for idealized global circulation modelling    
+- [University of Exeter's *isca*](https://github.com/ExeClim/Isca): a framework for idealized global circulation modelling     
       
     - The kind of climate model used to test climate dynamics hypotheses without all the complications of the real system
 
@@ -91,7 +91,7 @@ The [Pangeo Software Stack](http://pangeo.io/) for big data geoscience (includin
 
 ## Impact and speed of climate change
 
-[*Fourth National Climate Assessment Vol II (Executive Summary)*](https://www.globalchange.gov/nca4)*.* U.S. Global Change Research Program, November 2018.
+[*Fourth National Climate Assessment Vol II (Executive Summary)*](https://www.erm.com/globalassets/documents/mjba-archive/issue-briefs/mjba_summary_volumeii_nca4_dec2018_0.pdf)*.* U.S. Global Change Research Program, November 2018.
 
 Wallace-Wells, David. *The Uninhabitable Earth: Life After Warming*. Tim Duggan Books, 2020.
 
@@ -166,7 +166,7 @@ Fargione, Joseph, Steven Bassett, et al. "[Natural climate solutions for the Uni
 
 ## Activism
 
-[350.org](https://350.org)
+[350.org](https://350.org/)
 
 [Citizens Climate Lobby](https://citizensclimatelobby.org/)
 
