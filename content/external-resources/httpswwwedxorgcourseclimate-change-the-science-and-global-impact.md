@@ -5,7 +5,9 @@ external_url: https://www.edx.org/course/climate-change-the-science-and-global-i
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: valid
 title: https://www.edx.org/course/climate-change-the-science-and-global-impact
 uid: 8191809a-d37e-4199-b5f6-6731ffc883c1
+url_status_code: 200
 wayback_url: https://web.archive.org/web/20250811165943/https://www.edx.org/learn/climate-change/sdg-academy-climate-change-the-science-and-global-impact
 ---
