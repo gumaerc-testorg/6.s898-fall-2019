@@ -52,7 +52,7 @@ No guest lecture
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Kerry Emanuel](https://emanuel.mit.edu/) (MIT): An Overview of Climate Change
+{{% resource_link "50fca2fe-260e-4b44-902b-2c1d86793d85" "Kerry Emanuel" %}} (MIT): An Overview of Climate Change
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -82,7 +82,7 @@ No guest lecture
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[David McGee](http://web.mit.edu/davidmcg/www/) (MIT): Paleoclimatology and Extreme Climates
+{{% resource_link "c223fcf0-dc60-4efc-9dcc-b4d1eda31640" "David McGee" %}} (MIT): Paleoclimatology and Extreme Climates
 {{< tdclose >}}
 {{< tdopen >}}
 **Project Deadline:** Submit project team (names of 1–2 people) and a short paragraph for 2–3 possible topics
@@ -97,7 +97,7 @@ Student-led discussion of readings
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Raffaele Ferrari](http://ferrari.mit.edu/) (MIT): Ocean Dynamics and Modeling
+{{% resource_link "52f90149-cf81-4c4a-9473-6ac515993c16" "Raffaele Ferrari" %}} (MIT): Ocean Dynamics and Modeling
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -112,7 +112,7 @@ Student-led discussion of readings
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Noelle Selin](http://www.selingroup.org/noelle-eckley-selin) (MIT): Environmental Science and Governance
+{{% resource_link "f8b00926-367a-4809-befb-4416382a7e48" "Noelle Selin" %}} (MIT): Environmental Science and Governance
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -127,7 +127,7 @@ Student-led discussion of readings
 No seminar
 {{< tdclose >}}
 {{< tdopen >}}
-[John Deutch](http://web.mit.edu/chemistry/deutch/index.html) (MIT): The Optimum Allocation of Available Budget to Joint Climate Control Mechanisms
+{{% resource_link "05d03b9e-78fc-449d-90eb-d5f6d86ad367" "John Deutch" %}} (MIT): The Optimum Allocation of Available Budget to Joint Climate Control Mechanisms
 {{< tdclose >}}
 {{< tdopen >}}
 **Project Deadline:** Submit a 1–2 page project proposal
@@ -142,7 +142,7 @@ No seminar
 In-class climate model demo
 {{< tdclose >}}
 {{< tdopen >}}
-[Francis O'Sullivan](https://mitsloan.mit.edu/faculty/directory/francis-osullivan) (MIT): Energy and Climate
+{{% resource_link "bd4b0c65-efa6-41da-b122-cc73f2a79082" "Francis O'Sullivan" %}} (MIT): Energy and Climate
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +157,7 @@ In-class climate model demo
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Paul O'Gorman](https://pog.mit.edu/) (MIT): Atmospheric Science and Machine Learning
+{{% resource_link "a3191da6-f782-40b5-9a73-5b1817c4d328" "Paul O'Gorman" %}} (MIT): Atmospheric Science and Machine Learning
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -169,10 +169,10 @@ Student-led discussion of readings
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Replaced with a second guest lecture: [John Sterman](https://mitsloan.mit.edu/faculty/directory/john-d-sterman) (MIT) on Climate Policy Simulations
+Replaced with a second guest lecture: {{% resource_link "e6e23140-3616-42c8-bae2-ec19087518d6" "John Sterman" %}} (MIT) on Climate Policy Simulations
 {{< tdclose >}}
 {{< tdopen >}}
-[Dava Newman](https://davanewman.com/) and [Gui Trotti](https://trottistudio.com/profile/) (MIT): _Earth’s Vital Signs Revealed: A View from Space for Action on Earth_
+{{% resource_link "3dc88ea5-a07f-453d-9c8c-93fb3db360d8" "Dava Newman" %}} and {{% resource_link "c443d73e-6df8-4812-af0b-b76c207409f5" "Gui Trotti" %}} (MIT): _Earth’s Vital Signs Revealed: A View from Space for Action on Earth_
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -184,10 +184,10 @@ Replaced with a second guest lecture: [John Sterman](https://mitsloan.mit.edu/f
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[En-ROADS climate simulator](https://enroads.climateinteractive.org/)
+{{% resource_link "deddcc43-b1b6-4d99-9f74-fcbccc479c74" "En-ROADS climate simulator" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[John Reilly](https://mitsloan.mit.edu/faculty/directory/john-m-reilly) (MIT): Economic Modeling
+{{% resource_link "0e56595e-cebe-4fbb-a7c8-14117d600f6a" "John Reilly" %}} (MIT): Economic Modeling
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -202,7 +202,7 @@ Replaced with a second guest lecture: [John Sterman](https://mitsloan.mit.edu/f
 Student-led discussion of readings
 {{< tdclose >}}
 {{< tdopen >}}
-[Bill Weihl](https://www.climateone.org/people/bill-weihl) (MIT / Akamai / Google / Facebook / ...): On How Companies can Contribute
+{{% resource_link "03fc06d7-1621-4a4b-81c9-32279473306e" "Bill Weihl" %}} (MIT / Akamai / Google / Facebook / ...): On How Companies can Contribute
 {{< tdclose >}}
 {{< tdopen >}}
  
