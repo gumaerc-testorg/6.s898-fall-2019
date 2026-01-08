@@ -12,36 +12,36 @@ title: Student Projects
 uid: 43075e83-fe65-92ae-ff19-2f3f27c90086
 ---
 
-These are the student projects from 6.S898 that were shared publicly on the {{% resource_link "2cc24701-4e5c-4a96-a7cd-7be0d94faf69" "course site" %}}. 
+These are the student projects from 6.S898 that were shared publicly on the [course site](https://github.com/ron-rivest/MIT-6.S898-climate-change). 
 
 ### Research Papers
 
-{{% resource_link "8c6f667b-25e9-47b1-a375-66fa4ec926ca" "Interviews With the MIT Community on Climate Change" %}}
+[Interviews With the MIT Community on Climate Change](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Abdalla_project.pdf)
 
-{{% resource_link "a5df1576-4f5e-4fe5-a7c9-06bfdee4f0e6" "Developing Parameterization for Climate Models Using Neural Differential Equations" %}}
+[Developing Parameterization for Climate Models Using Neural Differential Equations](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Ponnapati_Agrawal_Ramadhan_project.pdf)
 
-{{% resource_link "7bc56d20-f074-4da0-a8b2-08e4e42fc872" "Produce Sustainability" %}}
+[Produce Sustainability](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Alsup_project.pdf)
 
-{{% resource_link "cda7feaf-4696-40e6-b877-35b2a4a605b7" "Amazon Land-Cover Classification from High Resolution Satellite Imagery" %}}
+[Amazon Land-Cover Classification from High Resolution Satellite Imagery](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Bhuwalka_project.pdf)
 
-{{% resource_link "22d61d2e-2c04-4f5c-930e-887f2035a574" "\"It Would be Super Helpful\": Opportunities for Non-Expert Collection of Environmental Data" %}}
+["It Would be Super Helpful": Opportunities for Non-Expert Collection of Environmental Data](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Cabral_project.pdf)
 
-{{% resource_link "93d883d5-1a72-4b8b-85af-b90f2c75582a" "Hilton Head Island Hurricanes and Climate Change" %}}
+[Hilton Head Island Hurricanes and Climate Change](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Drammis_project.pdf)
 
-{{% resource_link "c5febdca-230a-4dab-8519-daf919e64596" "Visualizing Climate Change" %}}
+[Visualizing Climate Change](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Duffy_project.pdf)
 
-{{% resource_link "e3fd3a5f-6959-41a9-a64a-80c0442e1af2" "Can Capitalism Help Us Save the Planet?" %}}
+[Can Capitalism Help Us Save the Planet?](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Goodwin_project.pdf)
 
-{{% resource_link "cc1e2e07-b3d0-4f37-9b20-3d591b06d0bd" "Can Cities Save Us?" %}}
+[Can Cities Save Us?](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Jain_and_Parthasarathy_project.pdf)
 
-{{% resource_link "8035b09d-b316-4292-820f-2a7b6b89865f" "The User Interface of En-Roads" %}}
+[The User Interface of En-Roads](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Ramnarayan_project.pdf)
 
-{{% resource_link "99c3ae55-4ff8-4cb7-9617-f104bc529766" "terraCoin: Cryptocurrency for the Planet" %}}
+[terraCoin: Cryptocurrency for the Planet](https://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Switzer_project.pdf)
 
-{{% resource_link "4c6324ab-fb85-4f92-abc2-bf8d1e1d0e7b" "Edible Carbon: A Website Dedicated to the Carbon Footprint of Eating" %}}
+[Edible Carbon: A Website Dedicated to the Carbon Footprint of Eating](http://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Xiang_project.pdf)
 
 ### Creative Projects
 
-{{% resource_link "a5adfe2d-2707-45cc-988b-554b538a09ac" "Climate Skepticism on Reddit" %}}
+[Climate Skepticism on Reddit](https://redditclimate.github.io/redditClimate/)
 
-{{% resource_link "539385a7-ded4-4a20-b04b-1e1f728ea0c9" "Climate Change and Computer Science" %}}
+[Climate Change and Computer Science](http://github.com/ron-rivest/MIT-6.S898-climate-change/blob/master/resource_files/2019_student_projects/Shavit_project.docx)
